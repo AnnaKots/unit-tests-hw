@@ -1,0 +1,14 @@
+{
+  "name": "units",
+  "version": "1.0.0",
+  "description": "Домашние работы для модуля Unit-тестирование",
+  "main": "commission.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.5.3"
+  }
+}
