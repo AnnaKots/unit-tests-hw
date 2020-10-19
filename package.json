@@ -1,0 +1,36 @@
+{
+<<<<<<< HEAD
+  "name": "units",
+  "version": "1.0.0",
+  "description": "Домашние работы для модуля Unit-тестирование",
+  "main": "commission.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.5.3"
+=======
+  "name": "unit-tests-hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "capitalize.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebHeroSchool/unit-tests-hw.git"
+  },
+  "author": "ТВОЕ ИМЯ <ТВОЯ ПОЧТА>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WebHeroSchool/unit-tests-hw/issues"
+  },
+  "homepage": "https://github.com/WebHeroSchool/unit-tests-hw#readme",
+  "devDependencies": {
+    "jest": "^26.0.1"
+>>>>>>> 9211499ddb75b38d77ae7d00099c0782f693f86a
+  }
+}
